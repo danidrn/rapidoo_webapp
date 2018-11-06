@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  email: MyString
+  nomeEmpresa: MyString
+  faturamentoMensal: 9.99
+  valorTitulo: 9.99
+  prazoVencimentoDias: 1
+
+two:
+  nome: MyString
+  email: MyString
+  nomeEmpresa: MyString
+  faturamentoMensal: 9.99
+  valorTitulo: 9.99
+  prazoVencimentoDias: 1
